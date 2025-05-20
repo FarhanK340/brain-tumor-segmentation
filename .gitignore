@@ -1,0 +1,4 @@
+brats_data/
+.venv/
+processed_data/
+predicted_val_masks/
